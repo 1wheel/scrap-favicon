@@ -13,9 +13,6 @@
     "scripts": {
         "test": "ava"
     },
-    "engines": {
-        "node": ">=10.18.0 <11 || >=12.14.0 <13"
-    },
     "files": [
         "index.js"
     ],
